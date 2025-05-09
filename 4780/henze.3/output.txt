@@ -1,0 +1,220 @@
+Parent sending message to 3259134 @ 0:250000000
+Parent 3259131 received message: data was 1 3259134 @ 0:250000000
+500000000
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259134 	0 	250000000
+1 	1 	3259135 	0 	500000000
+2 	0 	0 	0 	0
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259135 @ 0:500000000
+Parent 3259131 received message: data was 1 3259135 @ 0:500000000
+Parent sending message to 3259136 @ 0:625000000
+Parent 3259131 received message: data was 1 3259136 @ 0:625000000
+Parent sending message to 3259134 @ 0:791666666
+Parent 3259131 received message: data was 1 3259134 @ 0:791666666
+Parent sending message to 3259135 @ 0:874999999
+Parent 3259131 received message: data was 1 3259135 @ 0:874999999
+Parent sending message to 3259136 @ 0:958333332
+Parent 3259131 received message: data was 1 3259136 @ 0:958333332
+541666665
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259134 	0 	250000000
+1 	1 	3259135 	0 	500000000
+2 	1 	3259136 	0 	625000000
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259134 @ 1:124999998
+Parent 3259131 received message: data was 1 3259134 @ 1:124999998
+Parent sending message to 3259135 @ 1:208333331
+Parent 3259131 received message: data was 1 3259135 @ 1:208333331
+Parent sending message to 3259136 @ 1:291666664
+Parent 3259131 received message: data was 1 3259136 @ 1:291666664
+Parent sending message to 3259134 @ 1:458333330
+Parent 3259131 received message: data was 1 3259134 @ 1:458333330
+Parent sending message to 3259135 @ 1:541666663
+Parent 3259131 received message: data was 1 3259135 @ 1:541666663
+583333331
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259134 	0 	250000000
+1 	1 	3259135 	0 	500000000
+2 	1 	3259136 	0 	625000000
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259136 @ 1:624999996
+Parent 3259131 received message: data was 1 3259136 @ 1:624999996
+Parent sending message to 3259134 @ 1:791666662
+Parent 3259131 received message: data was 0 3259134 @ 1:791666662
+Process 3259134 preparing to end @ 1:791666662
+Parent sending message to 3259135 @ 1:916666662
+Parent 3259131 received message: data was 0 3259135 @ 1:916666662
+Process 3259135 preparing to end @ 1:916666662
+Parent sending message to 3259136 @ 2:41666662
+Parent 3259131 received message: data was 0 3259136 @ 2:41666662
+Process 3259136 preparing to end @ 2:41666662
+541666666
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259138 	1 	916666662
+1 	1 	3259139 	2 	41666662
+2 	1 	3259140 	2 	166666662
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259138 @ 2:249999995
+Parent 3259131 received message: data was 1 3259138 @ 2:249999995
+Parent sending message to 3259139 @ 2:333333328
+Parent 3259131 received message: data was 1 3259139 @ 2:333333328
+Parent sending message to 3259140 @ 2:416666661
+Parent 3259131 received message: data was 1 3259140 @ 2:416666661
+Parent sending message to 3259138 @ 2:583333327
+Parent 3259131 received message: data was 1 3259138 @ 2:583333327
+Parent sending message to 3259139 @ 2:666666660
+Parent 3259131 received message: data was 1 3259139 @ 2:666666660
+583333331
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259138 	1 	916666662
+1 	1 	3259139 	2 	41666662
+2 	1 	3259140 	2 	166666662
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259140 @ 2:749999993
+Parent 3259131 received message: data was 1 3259140 @ 2:749999993
+Parent sending message to 3259138 @ 2:916666659
+Parent 3259131 received message: data was 1 3259138 @ 2:916666659
+Parent sending message to 3259139 @ 2:999999992
+Parent 3259131 received message: data was 1 3259139 @ 2:999999992
+Parent sending message to 3259140 @ 3:83333325
+Parent 3259131 received message: data was 1 3259140 @ 3:83333325
+Parent sending message to 3259138 @ 3:249999991
+Parent 3259131 received message: data was 1 3259138 @ 3:249999991
+583333331
+Entry	Check	PID	StartSec	StartNan
+0 	1 	3259138 	1 	916666662
+1 	1 	3259139 	2 	41666662
+2 	1 	3259140 	2 	166666662
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259139 @ 3:333333324
+Parent 3259131 received message: data was 1 3259139 @ 3:333333324
+Parent sending message to 3259140 @ 3:416666657
+Parent 3259131 received message: data was 1 3259140 @ 3:416666657
+Parent sending message to 3259138 @ 3:583333323
+Parent 3259131 received message: data was 0 3259138 @ 3:583333323
+Process 3259138 preparing to end @ 3:583333323
+Parent sending message to 3259139 @ 3:708333323
+Parent 3259131 received message: data was 0 3259139 @ 3:708333323
+Process 3259139 preparing to end @ 3:708333323
+624999999
+Entry	Check	PID	StartSec	StartNan
+0 	0 	0 	0 	0
+1 	0 	0 	0 	0
+2 	1 	3259140 	2 	166666662
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 3259140 @ 3:958333323
+Parent 3259131 received message: data was 0 3259140 @ 3:958333323
+Process 3259140 preparing to end @ 3:958333323

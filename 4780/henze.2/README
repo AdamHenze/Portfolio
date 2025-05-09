@@ -1,0 +1,59 @@
+ADAM HENZE
+PROJECT 1 README
+4760 OPSYS
+MARK HAUSCHILD
+2/6/2024
+
+
+*****NOTE*****
+RESUBMITION FOR HENZE2.2
+This directory henze 2.2 is most certainly late past the extended due date.
+HOWEVER, I was bothered by the final bits of functionality I couldnt finish.
+Working all night, its now 8am... I was able to learn and work past my issues!
+Did you know execvp needs NULL as the last arg in its arg array, Now I do...
+This solved the issues with PCB board, and other strangeness.
+PLEASE GRADE directory Henze.2 if necessary, Henze2.2 was for effort and understanding.
+
+
+USAGE: oss [-h] [-n #] [-s #] [-t #]\n"
+[-h]: Throws help message: No execution.\n");
+[-n]: expects integer value for max total children to launch\n");
+[-s]: expects integer value for number of max simultaneous children\n");
+[-t]: expects integer value for secons of hang time\n");
+[-i]: expects integer value for child interval launch
+
+EXAMPLEs:
+
+./oss -n 12 -s 3 -t 4
+./oss -s 5 
+./oss -n 7 -t 4
+./oss -h
+
+COMPILE:
+	Compile using make utiliy within directory containing oss.c, 
+	user.c, and makefile.
+
+RUN:
+	After compiling, run program using './oss' execution with 
+	appropriate usage as above.
+
+DESCRIPTION:
+	OSS program will create a number of child processes, up to S 
+	simultaneous children,
+	until it has created N total children. 
+
+	The child process, USER, will iterate through a loop for T number 
+	of second, then close.
+
+	Upon USER closing, OSS will continue to launch a number of
+	chilren, up to S simultaneous, until N children is reached.
+
+OUTSTANDING ISSUES:
+	The program operates as intended. Many learning opportunities
+	during coding, many minor challenges overcome. The only 
+	persisting issue is that my EXECVP call will not execute
+	UNLESS a printf statement came before it(?). I have no idea
+	why and would love to know what the link between the two are.
+	This print statement is commented similarly within OSS.C.
+
+	I could not complete the PCB correctly, I could store all of my information in the stucture array properly but then EXEC would not work.

@@ -1,0 +1,76 @@
+ADAM HENZE
+PROJECT 5 README
+4760 OPSYS
+MARK HAUSCHILD
+4/19/2024
+
+USAGE: oss [-h] [-n #] [-s #] [-t #] [-i] [-f]
+[-h]: Throws help message: No execution.\n");
+[-n]: expects integer value for max total children to launch
+[-s]: expects integer value for number of max simultaneous children
+[-t]: expects integer value for secons of hang time
+[-i]: expects integer value for child interval launch
+[-f]: expects string for log file, defaults to log.txt
+
+EXAMPLEs:
+./oss -n 12 -s 3 -t 4
+./oss -s 5 
+./oss -n 7 -t 4
+./oss -h
+./oss -n 3 -s 2 -t 7 -i 300 -f newlog.txt
+
+COMPILE:
+
+	Compile using make utiliy within directory containing oss.c, 
+	user.c, and makefile.
+
+RUN:
+
+	After compiling, run program using './oss' execution with 
+	appropriate usage as above.
+
+DESCRIPTION:
+
+	OSS program will create a number of child processes, up to S simultaneous children,
+	until it has created N total children. 
+
+		oss will message these processes to pass data about the queue state and time usage.
+
+	The child process, USER, will iterate through a loop 
+		
+		during each loop of the worker process a random chance asking OSS for a resource or a premature termination can occur
+		Oss wil handle these conditions and insert and remove from blocked queue or allocate resources
+
+	Upon USER closing, OSS will continue to launch a number of
+	chilren, up to S simultaneous, until N children is reached.
+
+	Children will be created at I interval.
+
+	Log file will be save to F.
+
+OUTSTANDING ISSUES:
+
+	None immediately aware of. Seems to run fine. Log file cleaner then output to screen. 
+
+DEVELOPEMENT ISSUES:
+
+	One major hurdle i faced was the way i implemented which resource children would request.
+	I eventually had to go back and rework my logic to work with a pointer array to the resource arrays
+	this allowed much a more clever way to handle the data from messages in one go rather than with a crazy switch statement.
+	I also had issues where when I forced a kill on a deadlock, the wait check at the top of the loop would decrement values redundantly
+	once this was found it was ,uch easier to see correct behavior in resource and process tables
+	this double decrement would also kill the program prematurely but again fixed
+
+	
+DEADLOCK DETECTION:
+
+	When we check for dead locks, we will loop through the pcb and see if ALL current processes are blocked.
+	then we check for an easy unblock and message the child if we can clear it.
+	but if we cant clear the condition of all deadlocks after trying this we need to make a sacrifice
+	kill the first process we find in the pcb and release its resources
+	loop around and let children deal with the freed resources.   
+	I cannot claim this is elegant but it seems to work after refining the behavior.
+
+CHILD BEHAVIOR:
+
+	Children have a 60% chance to request a resource, a 15% to release an owned resource, and 5% chance to terminate, every 250ms.

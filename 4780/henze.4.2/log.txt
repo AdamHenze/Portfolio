@@ -1,0 +1,182 @@
+Process 1273797 entering Q0
+Parent sending message to 1273797 from Q0 @ 0:1000
+Parent 1273794 received message: data was 10000000 1273797 @ 0:1000
+Process 1273798 entering Q0
+Parent sending message to 1273798 from Q0 @ 0:10002000
+Parent 1273794 received message: data was 10000000 1273798 @ 0:10002000
+Process 1273799 entering Q0
+Parent sending message to 1273799 from Q0 @ 0:20003000
+Parent 1273794 received message: data was 10000000 1273799 @ 0:20003000
+Parent sending message to 1273797 from Q1 @ 0:30004000
+Parent 1273794 received message: data was 20000000 1273797 @ 0:30004000
+Parent sending message to 1273798 from Q1 @ 0:50005000
+Parent 1273794 received message: data was 20000000 1273798 @ 0:50005000
+Parent sending message to 1273799 from Q1 @ 0:70006000
+Parent 1273794 received message: data was 20000000 1273799 @ 0:70006000
+Parent sending message to 1273797 from Q2 @ 0:90007000
+Parent 1273794 received message: data was 40000000 1273797 @ 0:90007000
+Parent sending message to 1273798 from Q2 @ 0:130008000
+Parent 1273794 received message: data was 40000000 1273798 @ 0:130008000
+Parent sending message to 1273799 from Q2 @ 0:170009000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:170009000
+Parent sending message to 1273797 from Q2 @ 0:210010000
+Parent 1273794 received message: data was 40000000 1273797 @ 0:210010000
+Parent sending message to 1273798 from Q2 @ 0:250011000
+Parent 1273794 received message: data was 40000000 1273798 @ 0:250011000
+Parent sending message to 1273799 from Q2 @ 0:290012000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:290012000
+Parent sending message to 1273797 from Q2 @ 0:330013000
+Parent 1273794 received message: data was 40000000 1273797 @ 0:330013000
+Parent sending message to 1273798 from Q2 @ 0:370014000
+Parent 1273794 received message: data was 40000000 1273798 @ 0:370014000
+Parent sending message to 1273799 from Q2 @ 0:410015000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:410015000
+Parent sending message to 1273797 from Q2 @ 0:450016000
+Parent 1273794 received message: data was 40000000 1273797 @ 0:450016000
+Parent sending message to 1273798 from Q2 @ 0:490017000
+Parent 1273794 received message: data was 40000000 1273798 @ 0:490017000
+530018000
+Entry	Check	PID	StartSec	StartNan
+0 	1 	1273797 	0 	1000
+1 	1 	1273798 	0 	10002000
+2 	1 	1273799 	0 	20003000
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 1273799 from Q2 @ 0:530018000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:530018000
+Parent sending message to 1273797 from Q2 @ 0:570019000
+Parent 1273794 received message: data was 40000000 1273797 @ 0:570019000
+Parent sending message to 1273798 from Q2 @ 0:610020000
+Parent 1273794 received message: data was -40000000 1273798 @ 0:610020000
+Process 1273798 preparing to end @ 0:610020000
+Process 1273800 entering Q0
+Parent sending message to 1273800 from Q0 @ 0:650021000
+Parent 1273794 received message: data was 10000000 1273800 @ 0:650021000
+Parent sending message to 1273800 from Q1 @ 0:660022000
+Parent 1273794 received message: data was 20000000 1273800 @ 0:660022000
+Parent sending message to 1273799 from Q2 @ 0:680023000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:680023000
+Parent sending message to 1273797 from Q2 @ 0:720024000
+Parent 1273794 received message: data was -40000000 1273797 @ 0:720024000
+Process 1273797 preparing to end @ 0:720024000
+Process 1273801 entering Q0
+Parent sending message to 1273801 from Q0 @ 0:760025000
+Parent 1273794 received message: data was 10000000 1273801 @ 0:760025000
+Parent sending message to 1273801 from Q1 @ 0:770026000
+Parent 1273794 received message: data was 20000000 1273801 @ 0:770026000
+Parent sending message to 1273800 from Q2 @ 0:790027000
+Parent 1273794 received message: data was 40000000 1273800 @ 0:790027000
+Parent sending message to 1273799 from Q2 @ 0:830028000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:830028000
+Parent sending message to 1273801 from Q2 @ 0:870029000
+Parent 1273794 received message: data was -40000000 1273801 @ 0:870029000
+Process 1273801 preparing to end @ 0:870029000
+Parent sending message to 1273800 from Q2 @ 0:910030000
+Parent 1273794 received message: data was 40000000 1273800 @ 0:910030000
+Parent sending message to 1273799 from Q2 @ 0:950031000
+Parent 1273794 received message: data was 40000000 1273799 @ 0:950031000
+Parent sending message to 1273800 from Q2 @ 0:990032000
+Parent 1273794 received message: data was 40000000 1273800 @ 0:990032000
+500015000
+Entry	Check	PID	StartSec	StartNan
+0 	0 	0 	0 	0
+1 	1 	1273800 	0 	650021000
+2 	1 	1273799 	0 	20003000
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 1273799 from Q2 @ 1:30033000
+Parent 1273794 received message: data was 40000000 1273799 @ 1:30033000
+Parent sending message to 1273800 from Q2 @ 1:70034000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:70034000
+Parent sending message to 1273799 from Q2 @ 1:110035000
+Parent 1273794 received message: data was 40000000 1273799 @ 1:110035000
+Parent sending message to 1273800 from Q2 @ 1:150036000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:150036000
+Parent sending message to 1273799 from Q2 @ 1:190037000
+Parent 1273794 received message: data was 40000000 1273799 @ 1:190037000
+Parent sending message to 1273800 from Q2 @ 1:230038000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:230038000
+Parent sending message to 1273799 from Q2 @ 1:270039000
+Parent 1273794 received message: data was 40000000 1273799 @ 1:270039000
+Parent sending message to 1273800 from Q2 @ 1:310040000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:310040000
+Parent sending message to 1273799 from Q2 @ 1:350041000
+Parent 1273794 received message: data was 40000000 1273799 @ 1:350041000
+Parent sending message to 1273800 from Q2 @ 1:390042000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:390042000
+Parent sending message to 1273799 from Q2 @ 1:430043000
+Parent 1273794 received message: data was -40000000 1273799 @ 1:430043000
+Process 1273799 preparing to end @ 1:430043000
+Parent sending message to 1273800 from Q2 @ 1:470044000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:470044000
+Parent sending message to 1273800 from Q2 @ 1:510045000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:510045000
+520013000
+Entry	Check	PID	StartSec	StartNan
+0 	0 	0 	0 	0
+1 	1 	1273800 	0 	650021000
+2 	0 	0 	0 	0
+3 	0 	0 	0 	0
+4 	0 	0 	0 	0
+5 	0 	0 	0 	0
+6 	0 	0 	0 	0
+7 	0 	0 	0 	0
+8 	0 	0 	0 	0
+9 	0 	0 	0 	0
+10 	0 	0 	0 	0
+11 	0 	0 	0 	0
+12 	0 	0 	0 	0
+13 	0 	0 	0 	0
+14 	0 	0 	0 	0
+15 	0 	0 	0 	0
+16 	0 	0 	0 	0
+17 	0 	0 	0 	0
+18 	0 	0 	0 	0
+19 	0 	0 	0 	0
+Parent sending message to 1273800 from Q2 @ 1:550046000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:550046000
+Parent sending message to 1273800 from Q2 @ 1:590047000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:590047000
+Parent sending message to 1273800 from Q2 @ 1:630048000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:630048000
+Parent sending message to 1273800 from Q2 @ 1:670049000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:670049000
+Parent sending message to 1273800 from Q2 @ 1:710050000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:710050000
+Parent sending message to 1273800 from Q2 @ 1:750051000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:750051000
+Parent sending message to 1273800 from Q2 @ 1:790052000
+Parent 1273794 received message: data was 40000000 1273800 @ 1:790052000
+Parent sending message to 1273800 from Q2 @ 1:830053000
+Parent 1273794 received message: data was -40000000 1273800 @ 1:830053000
+Process 1273800 preparing to end @ 1:830053000
