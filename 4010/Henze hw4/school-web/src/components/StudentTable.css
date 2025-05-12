@@ -1,0 +1,27 @@
+.bg-container {
+    min-height: 100vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tbl-container {
+    background-color: smokewhite;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+
+.custom-header {
+    background-color: #0f9ed5;
+    color: white;
+}
+
