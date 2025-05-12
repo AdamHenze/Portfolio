@@ -1,0 +1,78 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve
+npm ERR! 
+npm ERR! While resolving: vite@5.3.4
+npm ERR! Found: @types/node@16.18.103
+npm ERR! node_modules/@types/node
+npm ERR!   @types/node@"*" from @jest/console@27.5.1
+npm ERR!   node_modules/@jest/console
+npm ERR!     @jest/console@"^27.5.1" from @jest/core@27.5.1
+npm ERR!     node_modules/@jest/core
+npm ERR!       @jest/core@"^27.5.1" from jest@27.5.1
+npm ERR!       node_modules/jest
+npm ERR!         peer jest@"^27.0.0 || ^28.0.0" from jest-watch-typeahead@1.1.0
+npm ERR!         node_modules/jest-watch-typeahead
+npm ERR!         1 more (react-scripts)
+npm ERR!       1 more (jest-cli)
+npm ERR!     @jest/console@"^27.5.1" from @jest/reporters@27.5.1
+npm ERR!     node_modules/@jest/reporters
+npm ERR!       @jest/reporters@"^27.5.1" from @jest/core@27.5.1
+npm ERR!       node_modules/@jest/core
+npm ERR!         @jest/core@"^27.5.1" from jest@27.5.1
+npm ERR!         node_modules/jest
+npm ERR!         1 more (jest-cli)
+npm ERR!     2 more (@jest/test-result, jest-runner)
+npm ERR!   @types/node@"*" from @jest/core@27.5.1
+npm ERR!   node_modules/@jest/core
+npm ERR!     @jest/core@"^27.5.1" from jest@27.5.1
+npm ERR!     node_modules/jest
+npm ERR!       peer jest@"^27.0.0 || ^28.0.0" from jest-watch-typeahead@1.1.0
+npm ERR!       node_modules/jest-watch-typeahead
+npm ERR!         jest-watch-typeahead@"^1.0.0" from react-scripts@5.0.1
+npm ERR!         node_modules/react-scripts
+npm ERR!       1 more (react-scripts)
+npm ERR!     @jest/core@"^27.5.1" from jest-cli@27.5.1
+npm ERR!     node_modules/jest-cli
+npm ERR!       jest-cli@"^27.5.1" from jest@27.5.1
+npm ERR!       node_modules/jest
+npm ERR!         peer jest@"^27.0.0 || ^28.0.0" from jest-watch-typeahead@1.1.0
+npm ERR!         node_modules/jest-watch-typeahead
+npm ERR!         1 more (react-scripts)
+npm ERR!   71 more (@jest/environment, @jest/types, jest-haste-map, ...)
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peerOptional @types/node@"^18.0.0 || >=20.0.0" from vite@5.3.4
+npm ERR! node_modules/vite
+npm ERR!   peer vite@"^4.0.0 || ^5.0.0" from @storybook/react-vite@8.2.5
+npm ERR!   node_modules/@storybook/react-vite
+npm ERR!     dev @storybook/react-vite@"*" from the root project
+npm ERR!   peer vite@"^3.0.0 || ^4.0.0 || ^5.0.0" from @joshwooding/vite-plugin-react-docgen-typescript@0.3.1
+npm ERR!   node_modules/@joshwooding/vite-plugin-react-docgen-typescript
+npm ERR!     @joshwooding/vite-plugin-react-docgen-typescript@"0.3.1" from @storybook/react-vite@8.2.5
+npm ERR!     node_modules/@storybook/react-vite
+npm ERR!       dev @storybook/react-vite@"*" from the root project
+npm ERR!   1 more (@storybook/builder-vite)
+npm ERR! 
+npm ERR! Conflicting peer dependency: @types/node@20.14.11
+npm ERR! node_modules/@types/node
+npm ERR!   peerOptional @types/node@"^18.0.0 || >=20.0.0" from vite@5.3.4
+npm ERR!   node_modules/vite
+npm ERR!     peer vite@"^4.0.0 || ^5.0.0" from @storybook/react-vite@8.2.5
+npm ERR!     node_modules/@storybook/react-vite
+npm ERR!       dev @storybook/react-vite@"*" from the root project
+npm ERR!     peer vite@"^3.0.0 || ^4.0.0 || ^5.0.0" from @joshwooding/vite-plugin-react-docgen-typescript@0.3.1
+npm ERR!     node_modules/@joshwooding/vite-plugin-react-docgen-typescript
+npm ERR!       @joshwooding/vite-plugin-react-docgen-typescript@"0.3.1" from @storybook/react-vite@8.2.5
+npm ERR!       node_modules/@storybook/react-vite
+npm ERR!         dev @storybook/react-vite@"*" from the root project
+npm ERR!     1 more (@storybook/builder-vite)
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! C:\Users\treyh\AppData\Local\npm-cache\_logs\2024-07-23T04_00_39_408Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: C:\Users\treyh\AppData\Local\npm-cache\_logs\2024-07-23T04_00_39_408Z-debug-0.log
