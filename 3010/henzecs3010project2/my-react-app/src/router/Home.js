@@ -1,0 +1,29 @@
+import FullLogo from "../img/FullLogo.png"
+const Home = () => {
+    // return <h1>Home</h1>;
+    return <div className="container-fluid">
+        <div className="col-12">
+            <img src={FullLogo} alt="logo" className="logo"></img>
+        </div>
+        <div className="row">
+            <div className="col-0 col-sm-1 col-md-2"></div>
+            <div className="col-12 col-sm-10 col-md-8 bgChar" style={{padding: '20px', marginBottom: '70px'}}>
+                <h3>Welcome</h3>
+                <p>
+                    This is a work in progress website for my personal woodworking studio.
+                    The name is derived from my parents hometowns of Labelle and LaGrange Missouri.
+                    The layout is subject to updates over time along with content and copy.
+                    As features are added to the site the layout will change to reflect new functionalities.
+                </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non aliquet urna. Donec velit metus, congue ac ligula ac, cursus ornare est. Donec neque urna, faucibus vel risus vel, efficitur dictum nibh. Etiam pellentesque lobortis lectus. Fusce varius, libero et ornare fermentum, velit justo sollicitudin turpis, cursus auctor velit quam sed sem. Suspendisse ut dui et tellus consequat gravida ut facilisis purus. Morbi consectetur ipsum eget cursus ultrices.</p>
+                <p>Nulla ac arcu a lacus volutpat vulputate. Nunc rhoncus interdum erat, nec venenatis ipsum rhoncus varius. Mauris vel diam commodo, mollis dui et, faucibus risus. Etiam non arcu ultrices, viverra diam eget, maximus turpis. Nulla et quam dapibus, dapibus ipsum sed, laoreet augue. Morbi vitae eros mattis, dignissim urna non, malesuada mi. Cras finibus laoreet diam id tristique. Vestibulum aliquam diam lacinia dui bibendum laoreet.</p>
+                <p>Phasellus in ante et felis vehicula imperdiet. Maecenas non pellentesque sem. Cras vehicula, lectus a vulputate varius, massa dui faucibus dolor, sit amet dictum urna metus at arcu. Ut pulvinar aliquam accumsan. Nunc tristique, ipsum ut fringilla feugiat, justo purus mattis lacus, et gravida orci lectus nec lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eu tincidunt libero. Nam convallis mollis enim, vehicula placerat mi. Donec facilisis hendrerit magna. Proin eu dolor sit amet sem consequat accumsan eu at purus.</p>
+                <p>Nam vehicula, purus a volutpat facilisis, enim quam accumsan metus, fermentum viverra sem magna quis ligula. Suspendisse in mauris nibh. Curabitur nec quam a magna dapibus iaculis. Nam sodales bibendum sagittis. Phasellus vitae erat accumsan, placerat leo sed, laoreet libero. Sed vel quam mollis, eleifend quam sed, tincidunt erat. Mauris bibendum tempus nibh ac rhoncus.</p>
+                <p>Duis erat mi, porta nec dapibus vitae, blandit eu mi. Phasellus nisi mauris, dignissim eget malesuada sed, gravida id ipsum. Maecenas lobortis tellus eget mollis sodales. Vivamus condimentum, ligula sit amet congue accumsan, ipsum justo imperdiet velit, eget tincidunt mi tellus sed neque. Donec at arcu volutpat, pharetra ipsum ut, pellentesque augue. Morbi laoreet vehicula quam, vitae vehicula elit lobortis eget. Aliquam erat volutpat. Etiam in justo eu eros cursus rhoncus a et turpis.</p>
+            </div>
+            <div className="col-0 col-sm-1 col-md-2"></div>
+        </div>
+    </div>
+};
+
+export default Home;
