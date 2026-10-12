@@ -1,0 +1,63 @@
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: lightslategrey;
+    text-decoration: none;
+}
+
+body, html {
+    height: 100%;
+    background-image: url("img/bfe0fff75f29c5bfab4cb116ba4b0d65.jpg");
+    background-size: cover;;
+}
+
+.bgwhite {
+    background-color: white;
+}
+
+.bgChar {
+    background-color: rgba(0,0,0,.7);
+    color: white;
+    text-align: center;
+}
+
+.selected {
+    color: white;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.smlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 100%;
+    max-width: 200px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Arial Black";
+}
