@@ -1,0 +1,76 @@
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:11:14 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:11:14.851Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:13:09 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:13:09.908Z"}
+{"level":"info","message":"existingUserAccount undefined","timestamp":"2023-06-02T20:13:09.916Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:13:57 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:13:57.210Z"}
+{"level":"info","message":"existingUserAccount undefined","timestamp":"2023-06-02T20:13:57.218Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:15:14 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:15:14.201Z"}
+{"level":"info","message":"existingUserAccount [object Object]","timestamp":"2023-06-02T20:15:14.208Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:16:24 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:16:24.642Z"}
+{"level":"info","message":"existingUserAccount [object Object]","timestamp":"2023-06-02T20:16:24.649Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:16:52 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:16:52.006Z"}
+{"level":"info","message":"existingUserAccount undefined","timestamp":"2023-06-02T20:16:52.013Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:18:01 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:18:01.384Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:20:11 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:20:11.340Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:28:52 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:28:52.991Z"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"2023-06-02T20:28:53.011Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:29:11 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:29:11.693Z"}
+{"level":"info","message":"existingUserAccount [object Object]","timestamp":"2023-06-02T20:29:11.697Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 15:29:48 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T20:29:48.453Z"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"2023-06-02T20:29:48.468Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:18:48 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T21:18:48.829Z"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"2023-06-02T21:18:48.861Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:19:37 GMT-0500 (Central Daylight Time)","timestamp":"2023-06-02T21:19:37.756Z"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"2023-06-02T21:19:37.768Z"}
+{"level":"info","message":"Record created with id 3","timestamp":"2023-06-02T21:19:37.789Z"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:26:43 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:26:43 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:27:19 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:27:19 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"6/2/2023, 4:27:19 PM"}
+{"level":"info","message":"Record created with id 4","timestamp":"6/2/2023, 4:27:19 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:28:08 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:28:08 PM"}
+{"level":"info","message":"User already has an account","timestamp":"6/2/2023, 4:28:08 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:31:34 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:31:34 PM"}
+{"level":"info","message":"Steve already has an account","timestamp":"6/2/2023, 4:31:34 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:34:16 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:34:16 PM"}
+{"level":"info","message":"Steve already has an account","timestamp":"6/2/2023, 4:34:16 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:34:34 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:34:34 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"6/2/2023, 4:34:34 PM"}
+{"level":"info","message":"Record created with id 5","timestamp":"6/2/2023, 4:34:34 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:39:05 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:39:05 PM"}
+{"level":"info","message":"Steve already has an account","timestamp":"6/2/2023, 4:39:05 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:39:15 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:39:15 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"6/2/2023, 4:39:15 PM"}
+{"level":"info","message":"Record created with id 6","timestamp":"6/2/2023, 4:39:16 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:46:48 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:46:48 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"6/2/2023, 4:46:48 PM"}
+{"level":"info","message":"Record created with id 7","timestamp":"6/2/2023, 4:46:48 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:46:50 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:46:50 PM"}
+{"level":"error","message":"Steve already has an account","timestamp":"6/2/2023, 4:46:50 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:46:56 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:46:56 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:46:56 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"6/2/2023, 4:46:56 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:47:02 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:47:02 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:47:02 PM"}
+{"level":"error","message":"Either userName or password is incorrect.","timestamp":"6/2/2023, 4:47:02 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:47:13 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:47:13 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:48:15 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:48:15 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:48:47 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:48:47 PM"}
+{"level":"error","message":"Steven does not have an account, need to register.","timestamp":"6/2/2023, 4:48:47 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:48:50 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:48:50 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:48:50 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"6/2/2023, 4:48:50 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:13 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:13 PM"}
+{"level":"info","message":"Creating new record in user_account table","timestamp":"6/2/2023, 4:51:13 PM"}
+{"level":"info","message":"Record created with id 8","timestamp":"6/2/2023, 4:51:13 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:14 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:14 PM"}
+{"level":"error","message":"Steve already has an account","timestamp":"6/2/2023, 4:51:14 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:20 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:20 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:51:20 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"6/2/2023, 4:51:20 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:24 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:24 PM"}
+{"level":"error","message":"Steven does not have an account, need to register.","timestamp":"6/2/2023, 4:51:24 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:33 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:33 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:51:33 PM"}
+{"level":"error","message":"Either userName or password is incorrect.","timestamp":"6/2/2023, 4:51:33 PM"}
+{"level":"info","message":"A new request received at Fri Jun 02 2023 16:51:39 GMT-0500 (Central Daylight Time)","timestamp":"6/2/2023, 4:51:39 PM"}
+{"level":"info","message":"existingUserAccount Steve","timestamp":"6/2/2023, 4:51:39 PM"}
+{"level":"info","message":"Authentication successful!","timestamp":"6/2/2023, 4:51:39 PM"}
